@@ -26,3 +26,7 @@ NERDTree - press F2 as per the config file to toggle on/off the NERDTree.
 configured it to automatically turn on as soon as nvim is started and turn off when all editing windows are close
 ( press ? after toggling on NERDTree to see further commands)
 
+
+'ctrl'+'\'+'n' to navigate between terminal and normal mode in nvim.
+
+
