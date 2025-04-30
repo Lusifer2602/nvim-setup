@@ -30,5 +30,4 @@ highlight Normal guibg=none " removes backgroud color of tokyo night and makes t
 nnoremap <F2> :NERDTreeToggle<CR>
 
 
-autocmd VimEnter * NERDTree | wincmd p
 autocmd BufEnter * if winnr("$") == 1 && exists("b:NERDTree") | quit | endif
