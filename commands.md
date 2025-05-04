@@ -12,5 +12,7 @@ practicing grep in terminal now
 
 using grep -n <text searching> <file name> we can print line number as well as lines where the searched keyword exists
 
+USE < :%s/find_the_word_to_replace/new_word_to_be_replaced/g > 
+TO REPLACE TO WORDS IN VIM.
 
 
