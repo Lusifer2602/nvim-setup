@@ -1,4 +1,4 @@
-:" Begin vim-plug plugin section
+" Begin vim-plug plugin section
 call plug#begin('~/.local/share/nvim/plugged')
 
 " Tokyo Night theme plugin
