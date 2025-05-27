@@ -1,3 +1,6 @@
+" navigate to end of this file to see how and where to install the config
+" files
+
 " Begin vim-plug plugin section
 call plug#begin('~/.vim/plugged')
 
