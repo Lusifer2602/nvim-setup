@@ -8,11 +8,8 @@ Instead of using grep -e or grep -f one can use egrep or fgrep respectively.
 
 practicing grep in terminal now
 
-**use ctrl \ n to switch between normal mode and terminal when you have a terminal opened in nvim
 
 using grep -n <text searching> <file name> we can print line number as well as lines where the searched keyword exists
 
-USE < :%s/find_the_word_to_replace/new_word_to_be_replaced/g > 
-TO REPLACE TO WORDS IN VIM.
 
-
+https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/ [using this source to learn grep]
